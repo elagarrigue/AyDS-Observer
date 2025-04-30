@@ -1,4 +1,4 @@
-package ayds.observer.example._1listener
+package _1listener
 
 class Client(service: Service) {
 

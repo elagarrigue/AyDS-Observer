@@ -1,7 +1,7 @@
-package ayds.observer.example._2customobserver
+package _2customobserver
 
-import ayds.observer.Observable
-import ayds.observer.Subject
+import observer.Observable
+import observer.Subject
 
 class Service {
 

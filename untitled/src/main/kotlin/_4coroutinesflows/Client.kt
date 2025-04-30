@@ -1,4 +1,4 @@
-package ayds.observer.example._4coroutinesflows
+package _4coroutinesflows
 
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.runBlocking

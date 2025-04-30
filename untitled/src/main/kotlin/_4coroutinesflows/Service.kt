@@ -1,4 +1,4 @@
-package ayds.observer.example._4coroutinesflows
+package _4coroutinesflows
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow

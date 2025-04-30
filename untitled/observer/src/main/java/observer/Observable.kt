@@ -1,4 +1,4 @@
-package ayds.observer
+package observer
 
 interface Observable<T> {
     fun subscribe(observer: Observer<T>)

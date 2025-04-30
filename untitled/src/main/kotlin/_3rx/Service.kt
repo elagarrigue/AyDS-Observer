@@ -1,4 +1,4 @@
-package ayds.observer.example._3rx
+package _3rx
 
 import io.reactivex.rxjava3.core.Observable
 

@@ -1,4 +1,4 @@
-package ayds.observer
+package observer
 
 import java.util.*
 

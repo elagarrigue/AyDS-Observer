@@ -1,6 +1,6 @@
-package ayds.observer.example._2customobserver
+package _2customobserver
 
-import ayds.observer.Observer
+import observer.Observer
 
 class Client(service: Service) {
 

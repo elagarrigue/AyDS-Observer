@@ -1,4 +1,4 @@
-package ayds.observer.example._3rx
+package _3rx
 
 class Client(service: Service) {
 
